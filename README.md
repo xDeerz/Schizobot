@@ -9,7 +9,7 @@ git clone https://github.com/xDeerz/Schizobot
 
 ## Setting up
 You need to add your own responses to [respones.txt](https://github.com/xDeerz/Schizobot/blob/main/responses.txt).
-Each line is a response for the bot.
+Each line is a response for the bot. Add your bot token to the 95th line in [Schizobot.py](https://github.com/xDeerz/Schizobot/blob/b337c28aee4d6825f38f3482e688424f632011f2/Schizobot.py#L95)
 
 ## Running
 You need to change your directory to the new files path, use cd in your cmd/terminal and run the code:
