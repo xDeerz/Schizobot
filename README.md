@@ -15,7 +15,7 @@ Each line is a response for the bot. Add your bot token to the 95th line in [Sch
 You need to change your directory to the new files path, use cd in your cmd/terminal and run the code:
 ```
  cd path\Schizobot
- py "path\Schizobot"
+ py Schizobot.py
 ```
 ## Known issues
 If you're on windows and the code doesn't work, add ```, encoding='utf-8``` to the 24th line in [Schizobot.py](https://github.com/xDeerz/Schizobot/blob/b337c28aee4d6825f38f3482e688424f632011f2/Schizobot.py#L24) after ```'r'```. This shouldn't be an issue on linux though   
