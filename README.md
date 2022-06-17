@@ -14,7 +14,7 @@ Each line is a response for the bot. Add your bot token to the 95th line in [Sch
 ## Running
 You need to change your directory to the new files path, use cd in your cmd/terminal and run the code:
 ```
- cd "path\Schizobot"
+ cd path\Schizobot
  py "path\Schizobot"
 ```
 ## Known issues
