@@ -92,5 +92,5 @@ async def on_message(message, *args):
        await message.reply(choice)
        print ('DM')
        await bot.process_commands(message)
-bot.run("NzI1MDQxNzc3MjExMzQyOTEw.XvI9xg.-33_Mj7KrKVdNXnCpu5A_5Z1E_g") 
+bot.run("") 
 #gl hf ;)
