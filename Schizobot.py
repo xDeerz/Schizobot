@@ -92,5 +92,6 @@ async def on_message(message, *args):
        await message.reply(choice)
        print ('DM')
        await bot.process_commands(message)
+#put your bot token inside the ""
 bot.run("") 
 #gl hf ;)
