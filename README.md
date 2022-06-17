@@ -1,2 +1,2 @@
 # Schizobot
-![](https://github.com/xDeerz/Schizobot/blob/main/Screenshots/yixuZGk6ih.gif)
+![]((https://github.com/xDeerz/Schizobot/blob/main/Screenshots/9tPB9jenzO.gif)
