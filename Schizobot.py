@@ -12,8 +12,8 @@ import re
 
 import os
 
-
-botid = "725041777211342910"
+#Enter your bots id into this field.
+botid = ""
 
 bot = discord.Client()
 
